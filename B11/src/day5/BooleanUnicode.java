@@ -8,7 +8,7 @@ public class BooleanUnicode {
 		boolean var1 = true;
 		System.out.println(var&var1);
 		
-		char var2 = '\u221E';
+		char var2 = '\u221E'; // unicode problems, no std website to refer code & if available (unicode.org),check deprivation.
 		System.out.println(var2);
 
 	}
